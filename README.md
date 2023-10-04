@@ -3,7 +3,8 @@ Testing different models and datasets for aerial object detection and tracking. 
 The streamlit app was inspired from [here](https://medium.com/@mycodingmantras/building-a-real-time-object-detection-and-tracking-app-with-yolov8-and-streamlit-part-1-30c56f5eb956) and [here](https://lalodatos.medium.com/building-your-own-real-time-object-detection-app-roboflow-yolov8-and-streamlit-part-1-f577cf0aa6e5).
 
 Initially testing pre-trained models. Detection and tracking:
-<img src="https://github.com/crisjosil/Aerial_object_detection_tests/Dance_short_.gif" width="100" height="100" />
+![](https://github.com/crisjosil/Aerial_object_detection_tests/Dance_short_.gif)
+
 
 Pose estimation:
-<img src="https://github.com/crisjosil/Aerial_object_detection_tests/Dog_short.gif" width="100" height="100" />
+![](https://github.com/crisjosil/Aerial_object_detection_tests/Dog_short.gif)
