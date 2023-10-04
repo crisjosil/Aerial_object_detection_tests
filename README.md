@@ -7,4 +7,5 @@ Initially testing pre-trained models. Detection and tracking:
 
 
 Pose estimation:
+
 ![](https://github.com/crisjosil/Aerial_object_detection_tests/blob/master/Dance_short_.gif)
