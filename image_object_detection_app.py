@@ -35,7 +35,7 @@ col1, col2 = st.columns(2)
 # Adding image to the first column if image is uploaded
 with col1:
     if source_img is None:
-        img_0='/home/crs2/Desktop/pothole.jpg'
+        img_0='./pothole.jpg'
         st.image(img_0,caption="Uploaded Image",use_column_width=True)
         uploaded_image=img_0
         
